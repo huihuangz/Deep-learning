@@ -1,7 +1,7 @@
 # Deep-learning
 
 
-Some link for Deep learning 
+Some links for Deep learning 
 
 [1] https://github.com/fengdu78/deeplearning_ai_books
 
